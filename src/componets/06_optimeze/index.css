@@ -1,0 +1,13 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.parament {
+    background-color: red;
+}
+
+.child {
+    background-color: purple;
+}

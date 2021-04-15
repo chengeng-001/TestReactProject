@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0; 
+}
+
+
+.parent {
+    width: 26.041667rem;
+    color: blue;
+}
+
+.child {
+     width: 15.625rem;
+     color:  red;
+}
+
+.grand {
+    width: 13.020833rem;
+    color: purple;
+}
+
+.five {
+    width: 13.020833rem;
+    color: darkblue;
+}   
